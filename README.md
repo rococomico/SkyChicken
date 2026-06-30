@@ -9,7 +9,7 @@
 
 下記リンクからプレイできます。
 
-プレイする
+[プレイする](https://kitao.github.io/pyxel/web/launcher/?play=rococomico/SkyChicken/main/game&gamepad=enabled)
 
 ## 操作方法
 キーボードを用いて操作します。操作方法は以下の通りです。
