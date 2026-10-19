@@ -1,5 +1,5 @@
 # SkyChicken
-レトロゲームエンジン [Pyxel](https://github.com/kitao/pyxel) を用いて制作中のアクションゲームです。
+レトロゲームエンジン [Pyxel](https://kitao.dev/pyxel/) を用いて制作中のアクションゲームです。
 
 <img width="256" height="224" alt="pyxel-20260630-205150" src="https://github.com/user-attachments/assets/bc07c540-90b9-4bdb-8b7c-e8345c9f7021" />
 <img width="256" height="224" alt="pyxel-20260630-205243" src="https://github.com/user-attachments/assets/e6928d7f-f07a-4295-805c-939e5b15c18a" />
@@ -9,7 +9,7 @@
 
 下記リンクからプレイできます。
 
-[プレイする](https://kitao.github.io/pyxel/web/launcher/?play=rococomico/SkyChicken/main/game&gamepad=enabled)
+[プレイする](https://kitao.dev/pyxel/launcher/?play=rococomico%2FSkyChicken%2Fmain%2Fgame&gamepad=enabled)
 
 ## 操作方法
 キーボードを用いて操作します。操作方法は以下の通りです。
